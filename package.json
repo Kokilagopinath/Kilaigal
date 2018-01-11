@@ -1,0 +1,26 @@
+{
+  "name": "kilaigal",
+  "version": "1.0.0",
+  "description": "Visual git tool.",
+  "main": "kilaigal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janarthanansr/Kilaigal.git"
+  },
+  "keywords": [
+    "Git",
+    "GUI",
+    "Git",
+    "Visual",
+    "Git."
+  ],
+  "author": "Janarthanan. S <janarthanan1821993@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janarthanansr/Kilaigal/issues"
+  },
+  "homepage": "https://github.com/Janarthanansr/Kilaigal#readme"
+}
