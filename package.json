@@ -4,7 +4,7 @@
   "description": "Visual git tool.",
   "main": "kilaigal.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron kilaigal.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Janarthanansr/Kilaigal/issues"
   },
-  "homepage": "https://github.com/Janarthanansr/Kilaigal#readme"
+  "homepage": "https://github.com/Janarthanansr/Kilaigal#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
 }
