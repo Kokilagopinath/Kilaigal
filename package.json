@@ -4,7 +4,8 @@
   "description": "Visual git tool.",
   "main": "kilaigal.js",
   "scripts": {
-    "start": "electron kilaigal.js"
+    "start": "electron kilaigal.js",
+    "webpack": "webpack"
   },
   "repository": {
     "type": "git",
